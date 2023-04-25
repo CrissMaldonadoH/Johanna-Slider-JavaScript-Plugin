@@ -4,7 +4,7 @@ Just download, link and create banners.
 
 ## How to use:
 1. In the `<div>` tag where you will create the slider, put the "johanna" class.
-2. Inside the `<div>` tag with the "johanna" class, insert a `<ul>` tag and inside it place the "transition-delay" attribute, assign a numerical value to this attribute to indicate the time the slider will take to show all images
+2. Inside the `<div>` tag with the "johanna" class, insert an `<ul>` tag and inside it put the "transition-delay" attribute, assign a numeric value to this attribute to indicate the number of seconds it will take each image to be exposed.
 3. Inside the `<ul>` tag insert as many `<li> tags as images you need to display.
 4. Within each `<li>` tag insert the <img> tag with its respective source.
 
